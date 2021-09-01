@@ -1,3 +1,4 @@
+前后端完全开源、功能丰富的在线教室项目。通过它可以快速完成支持多人视频、语音、白板互动、录制回放等功能的在线教室
 <div align="center">
     <img width="200" height="200" style="display: block;" src="./assets/flat-logo.png">
 </div>
